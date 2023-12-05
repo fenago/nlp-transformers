@@ -80,6 +80,67 @@ SRL.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/
 
 Semantic_Role_Labeling_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab10/Semantic_Role_Labeling_with_ChatGPT.ipynb
 
+**Chapter 11 : Let Your Data Do the Talking: Story, Questions, and Answers**
+
+QA.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab11/QA.ipynb
+
+Haystack_QA_Pipeline.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab11/Haystack_QA_Pipeline.ipynb
+
+**Chapter 12 Detecting Customer Emotions to Make Predictions**
+
+SentimentAnalysis.ipynb: https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab12/SentimentAnalysis.ipynb
+
+**Chapter 13 : Analyzing Fake News with Transformers**
+
+Fake_News.ipynb: https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab13/Fake_News.ipynb
+
+Fake_News_Analysis_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab13/Fake_News_Analysis_with_ChatGPT.ipynb
+
+**Chapter 14 : Interpreting Black Box Transformer Models**
+
+BertViz.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab14/BertViz.ipynb
+
+Understanding_GPT_2_models_with_Ecco.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab14/Understanding_GPT_2_models_with_Ecco.ipynb
+
+**Chapter 15: From NLP to Task-Agnostic Transformer Models**
+
+Vision_Transformers.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab15/Vision_Transformers.ipynb
+
+DALL_E.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab15/DALL_E.ipynb
+
+**Chapter 16 : The Emergence of Transformer-Driven Copilots**
+
+Domain_Specific_GPT_3_Functionality.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab16/Domain_Specific_GPT_3_Functionality.ipynb
+
+KantaiBERT_Recommender.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab16/KantaiBERT_Recommender.ipynb
+
+Vision_Transformer_MLP_Mixer.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab16/Vision_Transformer_MLP_Mixer.ipynb
+
+Compact_Convolutional_Transformers.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab16/Compact_Convolutional_Transformers.ipynb
+
+**Chapter 17 :🐬 Consolidation of Suprahuman Transformers with OpenAI ChatGPT and GPT-4**	
+
+Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb
+
+ChatGPT_Plus_writes_and_explains_classification.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/ChatGPT_Plus_writes_and_explains_classification.ipynb
+
+Getting_Started_OpenAI_GPT_4.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/Getting_Started_OpenAI_GPT_4.ipynb
+
+Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb
+
+Getting_Started_with_the_DALL_E_2_API.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/Getting_Started_with_the_DALL_E_2_API.ipynb
+
+Speaking_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/Speaking_with_ChatGPT.ipynb
+
+ALL_in_One.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/ALL_in_One.ipynb
+
+**Appendix III: Generic Text Completion with GPT-2**	
+
+OpenAI_GPT_2.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/AppendixIII/OpenAI_GPT_2.ipynb 
+
+**Appendix IV: Custom Text Completion with GPT-2**	
+
+Training_OpenAI_GPT_2.ipynb: https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/AppendixIV/Training_OpenAI_GPT_2.ipynb
 
 
 # Table of Contents<br>
