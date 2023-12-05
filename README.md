@@ -9,7 +9,7 @@ Analyze advanced use cases, including polysemy, cross-lingual learning, and comp
 ## Course Description
 Transformers are a game-changer for natural language understanding (NLU) and have become one of the pillars of artificial intelligence.<br>
 
-Transformers for Natural Language Processing, 2nd Edition, investigates deep learning for machine translations, language modeling, question-answering, and many more NLP domains with transformers.<br>
+Transformers for Natural Language Processing,  investigates deep learning for machine translations, language modeling, question-answering, and many more NLP domains with transformers.<br>
 
 An Industry 4.0 AI specialist needs to be adaptable; knowing just one NLP platform is not enough anymore. Different platforms have different benefits depending on the application, whether it's cost, flexibility, ease of implementation, results, or performance. In this course, we analyze numerous use cases with Hugging Face, Google Trax, OpenAI, and AllenNLP.<br>
 
@@ -80,35 +80,35 @@ SRL.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/
 
 Semantic_Role_Labeling_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab10/Semantic_Role_Labeling_with_ChatGPT.ipynb
 
-**Chapter 11 : Let Your Data Do the Talking: Story, Questions, and Answers**
+**Lab 11 : Let Your Data Do the Talking: Story, Questions, and Answers**
 
 QA.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab11/QA.ipynb
 
 Haystack_QA_Pipeline.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab11/Haystack_QA_Pipeline.ipynb
 
-**Chapter 12 Detecting Customer Emotions to Make Predictions**
+**Lab 12 Detecting Customer Emotions to Make Predictions**
 
 SentimentAnalysis.ipynb: https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab12/SentimentAnalysis.ipynb
 
-**Chapter 13 : Analyzing Fake News with Transformers**
+**Lab 13 : Analyzing Fake News with Transformers**
 
 Fake_News.ipynb: https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab13/Fake_News.ipynb
 
 Fake_News_Analysis_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab13/Fake_News_Analysis_with_ChatGPT.ipynb
 
-**Chapter 14 : Interpreting Black Box Transformer Models**
+**Lab 14 : Interpreting Black Box Transformer Models**
 
 BertViz.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab14/BertViz.ipynb
 
 Understanding_GPT_2_models_with_Ecco.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab14/Understanding_GPT_2_models_with_Ecco.ipynb
 
-**Chapter 15: From NLP to Task-Agnostic Transformer Models**
+**Lab 15: From NLP to Task-Agnostic Transformer Models**
 
 Vision_Transformers.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab15/Vision_Transformers.ipynb
 
 DALL_E.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab15/DALL_E.ipynb
 
-**Chapter 16 : The Emergence of Transformer-Driven Copilots**
+**Lab 16 : The Emergence of Transformer-Driven Copilots**
 
 Domain_Specific_GPT_3_Functionality.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab16/Domain_Specific_GPT_3_Functionality.ipynb
 
@@ -118,7 +118,7 @@ Vision_Transformer_MLP_Mixer.ipynb:https://colab.research.google.com/github/fena
 
 Compact_Convolutional_Transformers.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab16/Compact_Convolutional_Transformers.ipynb
 
-**Chapter 17 :🐬 Consolidation of Suprahuman Transformers with OpenAI ChatGPT and GPT-4**	
+**Lab 17 :🐬 Consolidation of Suprahuman Transformers with OpenAI ChatGPT and GPT-4**	
 
 Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb:https://colab.research.google.com/github/fenago/nlp-transformers/blob/main/Lab17/Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb
 
