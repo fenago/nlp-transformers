@@ -28,6 +28,60 @@ If you want to learn about and apply transformers to your natural language (and 
 
 A good understanding of NLP, Python, and deep learning is required to benefit most from this course. Many platforms covered in this course provide interactive user interfaces, which allow readers with a general interest in NLP and AI to follow several labs of this course.<br>
 
+## Running on a cloud platform or in your environment
+To run these notebooks on a cloud platform, just click on one of the badges in the table below or run them on your environment.
+
+**Lab 2: Getting Started with the Architecture of the Transformer Model**
+
+Multi_Head_Attention_Sub_Layer: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab02/Multi_Head_Attention_Sub_Layer.ipynb
+
+positional_encoding.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab02/positional_encoding.ipynb
+
+**Lab 3: Fine-Tuning BERT Models**	
+
+BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab03/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb
+
+
+**Lab 4 : Pretraining a RoBERTa Model from Scratch**
+
+Pretraining a RoBERTa Model from Scratch
+KantaiBERT.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab05/Transformer_tasks.ipynb
+
+
+**Lab 5: Downstream NLP Tasks with Transformers**		
+
+Transformer_tasks.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab05/Transformer_tasks.ipynb
+
+
+**Lab 6 Machine Translation with the Transformer**		
+		
+Trax_translation.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab06/Trax_Translation.ipynb
+
+
+**Lab 7: The Rise of Suprahuman Transformers with GPT-3 Engines**				
+Getting_Started_GPT_3.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab07/Getting_Started_GPT_3.ipynb
+
+Fine_tuning_GPT_3.ipynb: https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab07/Getting_Started_GPT_3.ipynb
+
+**Lab 8 : Applying Transformers to Legal and Financial Documents for AI Text Summarization**				 Summarizing_Text_with_T5.ipynb: 
+https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab08/Summarizing_Text_with_T5.ipynb
+
+**Lab 9 : Matching Tokenizers and Datasets**	
+
+Tokenizers.ipynb:https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab09/Tokenizer.ipynb
+
+Training_OpenAI_GPT_2_CH09.ipynb:https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab09/Training_OpenAI_GPT_2_CH09.ipynb
+
+Summarizing_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab09/Summarizing_with_ChatGPT.ipynb
+
+**Lab 10 : Semantic Role Labeling**	
+
+SRL.ipynb:https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab10/SRL.ipynb
+
+Semantic_Role_Labeling_with_ChatGPT.ipynb:https://colab.research.google.com/github/fenago/nlp-transformersblob/main/Lab10/Semantic_Role_Labeling_with_ChatGPT.ipynb
+
+
+
 # Table of Contents<br>
 1.What are Transformers?<br>
 2.Getting Started with the Architecture of the Transformer Model<br>
